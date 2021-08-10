@@ -2,6 +2,6 @@
 
 Tools untuk pentes
 
-apt update
-pkg install figlet
+1.apt update
+
 
